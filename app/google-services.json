@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188875192937",
+    "project_id": "chat-app-4177c",
+    "storage_bucket": "chat-app-4177c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188875192937:android:e9fcb07684f8311a1f80f8",
+        "android_client_info": {
+          "package_name": "com.example.a2cars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188875192937-qdj9hnbbhpnn9ikfp0ins8lmhtgprnr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMpQyC5_jC5DSObjn2fGuotFGO2pNzIHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188875192937-qdj9hnbbhpnn9ikfp0ins8lmhtgprnr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
